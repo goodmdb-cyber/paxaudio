@@ -1,0 +1,33 @@
+# PaxAudio (PAXAUDIO, 팍스오디오)
+
+> PaxAudio is a Korean manufacturer of long range acoustic devices (LRAD / acoustic hailing devices, the Roger series), loudspeakers and special acoustic devices, based in Yecheon, Gyeongsangbuk-do, Republic of Korea. PaxAudio designs and builds products to each customer's requirements and has over 30 years of export experience. PaxAudio is a manufacturer, not a distributor.
+
+## Company
+- Name: PaxAudio (PAXAUDIO, 팍스오디오), CEO Sanghyun Lim (임상현)
+- Address: #207, Business Incubator, 114, Doripdaehak-gil, Yecheon-eup, Yecheon-gun, Gyeongsangbuk-do, Republic of Korea, 36830
+- Tel: +82-10-2410-4858 / Fax: +82-54-650-0153 / Email: pax-audio@naver.com
+- Korean bird and wildlife repeller brand: 야퇴존 (Wildlife Zone), https://www.wildlife-zone.com/
+
+## Long range acoustic devices (Roger series)
+- [Roger-1200](https://www.paxaudio.com/lrad#r1200): flagship, 151 dB, clear voice up to 1 km (about 80 dB @ 1 km), recorded signal up to 2 km, 200 Hz - 6 kHz, ±15° beam, 100-240 VAC, 20 kg, acoustic unit + amplifier
+- [Roger-600S](https://www.paxaudio.com/lrad#r600s): 135 dB @ 1 m, notification up to 1 km, 250 Hz - 4 kHz, waterproof, 25 kg, acoustic unit only
+- [Roger-600R](https://www.paxaudio.com/lrad#r600r): 135 dB @ 1 m, notification up to 1 km, 250 Hz - 4 kHz, waterproof, 23 kg, acoustic unit only
+- [Roger-300](https://www.paxaudio.com/lrad#r300): compact bar-type 300 W, 134 dB, 200 Hz - 8 kHz, 9.4 kg
+- [Roger-200](https://www.paxaudio.com/lrad#r200): new, 200 W, 126 dB, 200 Hz - 8 kHz, 6.2 kg, vehicle mount or handheld, acoustic unit only
+- [Roger-100](https://www.paxaudio.com/lrad#r100): 100 W, 130 dB, 135 Hz - 5 kHz, 11.2 kg, for PTZ camera systems, acoustic unit only
+- Uses: law enforcement, defense, border security, maritime, warnings over distance, bird-strike prevention at airports, agriculture, industrial facilities
+
+## Loudspeakers
+- [Loudspeakers](https://www.paxaudio.com/loudspeakers): compression driver units (75-300 W), column speakers (LA and LS series), horn speakers (TL-310, HS-50RT, HS-30BST), megaphones (PA-2, PA-335ASW, PA-9500B), marine speaker BHS-20W, military loudspeaker for VRC-946K radio series
+
+## Special acoustic devices (built to specification)
+- [HS-100A weatherproof horn speaker](https://www.paxaudio.com/sad#hs100a): 100 W, 138 dB (100W/1m), IP56, -62°C to 55°C, for coastline, border and military perimeter broadcasting
+- [300 W horn speaker for long-distance broadcast](https://www.paxaudio.com/sad#horn300): developed for the Korean military, 24 units carry over 10 km at night
+- [Smart Bird Repeller T1](https://www.paxaudio.com/sad#t1): 360° predator calls (12 piezo speakers + 50 W horn), rotating green laser, multi-angle reflector, FM radio; Patent KR 10-2941143; 2026 Korea Excellent Patent Award; sold in Korea as 야퇴존 T1 (https://www.wildlife-zone.com/tseries)
+- [Roadkill Prevention System](https://www.paxaudio.com/sad#roadkill): motion / thermal sensor (20 m), LED flasher and multi-band deterrent sound, LED warning light for drivers
+- [HP-300S ultrasonic wildlife repellent](https://www.paxaudio.com/sad#hp300s): 300 W, 1-18 kHz, 128 dB, for trains and vehicles against large animals
+- [LSD-50SN gyroscopic traffic speaker](https://www.paxaudio.com/sad#gyro): 50 W, 125 dB, keeps a 10° radiation angle on inclined roads, for TMA trucks
+
+## Contact
+- [Request a quote](https://www.paxaudio.com/#contact) or email pax-audio@naver.com
+- [FAQ](https://www.paxaudio.com/#faq)
