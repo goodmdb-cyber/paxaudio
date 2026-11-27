@@ -1,5 +1,6 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en">
+<!--email_off--><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>PaxAudio | Korean Manufacturer of Long Range Acoustic Devices (LRAD) and Loudspeakers</title>
 <meta name="description" content="PaxAudio is a Korean manufacturer of long range acoustic devices (Roger series), loudspeakers and special acoustic devices, built to each customer's requirements in Yecheon, Korea.">
 <link rel="canonical" href="https://www.paxaudio.com/">
@@ -76,4 +77,5 @@
 if(!v('f2')||!v('f3')||!v('f5')){m.textContent='Please fill in Name, Email and Message.';return}
 btn.disabled=true;m.textContent='Sending...';
 fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify({access_key:'5b71dbb9-ddf9-4ea5-a78e-67ca19a6c201',subject:'paxaudio.com inquiry: '+v('f4'),from_name:'paxaudio.com',company:v('f1'),name:v('f2'),email:v('f3'),product:v('f4'),message:v('f5')})}).then(function(r){return r.json()}).then(function(d){if(d.success){m.textContent='Thank you. Your message has been sent.';f.reset()}else{m.textContent='Sorry, sending failed. Please email pax-audio@naver.com.'}btn.disabled=false}).catch(function(){m.textContent='Sorry, sending failed. Please email pax-audio@naver.com.';btn.disabled=false})}});</script><script>document.querySelectorAll('[data-go]').forEach(function(c){c.style.cursor='pointer';c.onclick=function(){location.href=c.getAttribute('data-go')}});</script>
-</body></html>
+</body><!--/email_off-->
+</html>
