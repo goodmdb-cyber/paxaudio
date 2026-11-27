@@ -96,3 +96,7 @@ ul.feat{margin:0 0 6px;padding-left:20px}ul.feat li{margin:3px 0;font-size:15px}
 .gal.two{grid-template-columns:1fr 1fr;gap:20px;max-width:760px;margin-left:auto;margin-right:auto}.gal.two img{height:460px;object-fit:contain}main.wrap{padding-bottom:70px}@media(max-width:560px){.gal.two{gap:10px}.gal.two img{height:260px}}
 .gal.two{max-width:900px}.gal.two img{height:560px;max-height:560px;background:transparent}@media(max-width:560px){.gal.two{grid-template-columns:1fr}.gal.two img{height:auto;max-height:none;object-fit:contain}}.gal .gcap{grid-column:1/-1;text-align:center;font-size:13px;color:var(--mute);margin:0}
 .gal{order:9}
+
+/* Sticky top menu */
+nav{position:sticky;top:0;z-index:1000}
+html{scroll-padding-top:88px}
