@@ -28,6 +28,26 @@
 - [HP-300S ultrasonic wildlife repellent](https://www.paxaudio.com/sad#hp300s): 300 W, 1-18 kHz, 128 dB, for trains and vehicles against large animals
 - [LSD-50SN gyroscopic traffic speaker](https://www.paxaudio.com/sad#gyro): 50 W, 125 dB, keeps a 10° radiation angle on inclined roads, for TMA trucks
 
+## Product pages
+- [Roger-1200](https://www.paxaudio.com/roger-1200): Roger-1200 is a long range acoustic device (acoustic hailing device) made in Korea by PaxAudio: 151 dB sound power, clear voice up to 1 km, recorded signal up to 2 km, ±15° beam, 20 kg acoustic unit with amplifier.
+- [Roger-600S](https://www.paxaudio.com/roger-600s): Roger-600S long range acoustic device made in Korea by PaxAudio: 135 dB @ 1 m, long range notification up to 1 km, ±15° beam, waterproof, handheld or self-standing, 25 kg. Acoustic unit only.
+- [Roger-600R](https://www.paxaudio.com/roger-600r): Roger-600R long range acoustic device made in Korea by PaxAudio: 135 dB @ 1 m, long range notification up to 1 km, ±15° beam, waterproof, handheld or self-standing, 23 kg. Acoustic unit only.
+- [Roger-300](https://www.paxaudio.com/roger-300): Roger-300 is a compact bar-type 300 W acoustic hailing device made in Korea by PaxAudio: 134 dB maximum SPL, 200 Hz – 8 kHz, 9.4 kg.
+- [Roger-200](https://www.paxaudio.com/roger-200): Roger-200 is a lightweight 200 W acoustic hailing device made in Korea by PaxAudio for vehicle mounting and handheld use: 126 dB, 200 Hz – 8 kHz, 6.2 kg. Acoustic unit only.
+- [Roger-100](https://www.paxaudio.com/roger-100): Roger-100 is a rugged, compact 100 W acoustic device made in Korea by PaxAudio for thermal and visible PTZ camera systems: 130 dB, 135 Hz – 5 kHz, 11.2 kg. Acoustic unit only.
+- [HS-100A](https://www.paxaudio.com/hs-100a): HS-100A is a weatherproof 100 W GRP horn speaker made in Korea by PaxAudio for coastline, border and military perimeter broadcasting: 138 dB (100W/1m), IP56, -62°C to 55°C.
+- [Long-Distance Broadcast Horn Speaker](https://www.paxaudio.com/long-distance-horn-speaker): A 300 W horn speaker developed by PaxAudio for the Korean military. 24 units together carry sound over 10 km at night; voice over 70 dB at 2 km.
+- [Smart Bird Repeller T1](https://www.paxaudio.com/smart-bird-repeller-t1): Smart Bird Repeller T1 by PaxAudio combines 360° predator calls (12 piezo speakers + 50 W horn), a rotating green laser and a multi-angle reflective surface. Patent KR 10-2941143, 2026 Korea Excellent Patent Award.
+- [Roadkill Prevention System](https://www.paxaudio.com/roadkill-prevention-system): PaxAudio Roadkill Prevention System: a motion / thermal imaging sensor detects wildlife within 20 m, an LED flasher and multi-band speaker deter animals, and an LED warning light alerts drivers.
+- [HP-300S](https://www.paxaudio.com/hp-300s): HP-300S is a 300 W high-frequency wildlife repellent speaker made in Korea by PaxAudio for vehicles and trains: 1 – 18 kHz, 128 dB, 12 kg. Deters large animals such as elephants and cattle.
+- [LSD-50SN Gyroscopic Speaker](https://www.paxaudio.com/lsd-50sn): LSD-50SN gyroscopic speaker by PaxAudio delivers safety broadcasts to following vehicles while keeping a 10° radiation angle on inclined roads. 50 W, 125 dB, 250 Hz – 6 kHz. For TMA trucks with arrow boards.
+- [Compression Driver Units](https://www.paxaudio.com/compression-driver-units): PaxAudio compression driver units made in Korea: 300 W, 100 W, 80 W and 75 W models, 8 or 11 ohm, 108 – 126 dB, neodymium or ferrite magnets, for horn loudspeakers and PA systems.
+- [Column Speakers (LA / LS series)](https://www.paxaudio.com/column-speakers): PaxAudio aluminum column speakers made in Korea: LA series (20 – 60 W, 110 – 118 dB, 250 Hz – 15 kHz) and LS series (20 – 60 W, 60 Hz – 20 kHz) in silver and black.
+- [Horn Speakers (TL-310, HS-50RT, HS-30BST)](https://www.paxaudio.com/horn-speakers): PaxAudio PA horn speakers made in Korea: TL-310 (10 W, 105 dB), HS-50RT reflex horn with transformer (50 W, 116 dB) and HS-30BST compact paging horn (30 W, 112 dB).
+- [Megaphones (PA-2, PA-335ASW, PA-9500B)](https://www.paxaudio.com/megaphones): PaxAudio megaphones: PA-2 (10 W, 590 g), PA-335ASW (15 W) and PA-9500B (60 W), all with microphone, siren and whistle functions.
+- [BHS-20W Marine Speaker](https://www.paxaudio.com/marine-speaker-bhs-20w): BHS-20W marine speaker by PaxAudio: 20 W, 106 dB (1W/1m), 300 – 7,000 Hz, gray ABS housing, UL-94 terminal block, 2.9 kg, for vessels.
+- [Military Loudspeaker for VRC-946K](https://www.paxaudio.com/military-loudspeaker-vrc-946k): PaxAudio military loudspeaker for the VRC-946K radio series: 600 ± 60 Ω input impedance, 250 – 5,000 Hz, 2 W, over 95 dB at 750 – 1,250 Hz.
+
 ## Contact
 - [Request a quote](https://www.paxaudio.com/#contact) or email pax-audio@naver.com
 - [FAQ](https://www.paxaudio.com/#faq)
